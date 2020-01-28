@@ -9,9 +9,9 @@ function Example2() {
             <p>JSPang今年：{age}岁</p>
             <p>性别：{sex}</p>
             <p>工作是：{work}</p>
-            
         </div>
     )
 }
- 
 export default Example2;
+
+// useEffect()
