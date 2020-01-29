@@ -26,7 +26,7 @@ function Example() {
         return () => {
             console.log('============')
         }
-    }, [])
+    }, [count])
     return (
         <div>
             <p>{count}</p>
